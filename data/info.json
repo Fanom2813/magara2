@@ -1,0 +1,87 @@
+{
+    "header": {
+        "pub_email": "info@pacemhavens.org",
+        "pub_phone": "+256 778 677779"
+    },
+    "social_link": [
+        {
+            "icon": "fa-facebook-square",
+            "link": "https://www.facebook.com/Pacem-Havens-Limited-101161132721965"
+        },
+        {
+            "icon": "fa-twitter-square",
+            "link": "https://twitter.com/homes_pacem?t=r7hvSlZ73I_lssqVmjAJiA&s=09"
+        },
+        {
+            "icon": "fa-instagram",
+            "link": "https://www.instagram.com/pacemhavensltd/"
+        },
+        {
+            "icon": "fa-youtube-square",
+            "link": "https://www.youtube.com/watch?v=qm83mUjAvXo"
+        }
+    ],
+    "slider": [
+        {
+            "title": "Halfway home for ex-prisoners opened in Mukono",
+            "subtitle": "Shadrack Magara, the founder who himself spent 24 years in Luzira Prison, said the home, is a place where the women can regain their dignity, and learn several skills.",
+            "image": "assets/images/slider/s1.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Cris Rwakasiisi",
+            "image": "assets/images/IMG-20230316-WA0012.jpg",
+            "position": "Presidential Advisor",
+            "description": "Cris is the Chairperson to the Board. He is an ex-prisoner who is currently a Presidential Advisor. He devotes his time providing moral and spiritual support to other ex-offenders who are willing to turn their life around. He advises on strategic linkages and guides strategic thinking on prisons and prisoners."
+        },
+        {
+            "name": "Shadrack Magara",
+            "image": "assets/images/IMG-20230316-WA0008.jpg",
+            "position": "Trustees on the Board of Directors",
+            "description": "As the Founding Director, Shadrack provides advisory on the vision and strategy, and guides on program direction. He also brings with him critical linkages with the prison service, prisoners, and ex-offenders. Shadrack also represents the Trustees on the Board of Directors."
+        },
+        {
+            "name": "Susan R. Lugemwa",
+            "image": "assets/images/IMG-20230316-WA0010.jpg",
+            "position": "Treasurer and Advisor",
+            "description": "With experience spanning over 20 years of working with Development Partner Agencies, Susan is both the treasurer and advisor on donor relations on the Board"
+        },
+        {
+            "name": "Uganda Prison Service",
+            "image": "assets/images/kJLxydgd_400x400.jpg",
+            "position": "Stakeholder",
+            "description": "UPS is the primary stakeholder is the Foundation’s work. They provide guidance on how to work in partnership with government, and technical advice relating to the criminal justice system and how to engage with ex-offenders."
+        },
+        {
+            "name": "Ahmed Naveed",
+            "image": "assets/images/IMG-20230316-WA0001.jpg",
+            "position": "Business entrepreneur",
+            "description": "Ahmed is a business entrepreneur and the Managing Director of Babu Motors (u) Ltd. He has lived and worked in Uganda for the last 15 years, supporting youth in the field of social economic development – and has created jobs for close to 200 youth. He brings experiences of the private sector to the team."
+        },
+        {
+            "name": "Alice Mwebaza",
+            "image": "assets/images/",
+            "position": "Legal Aid & Gender Justice Expert",
+            "description": "Alice is a Legal Aid & Gender Justice Expert. With this wide ranging experience Alice brings the advantage of being both an Advocate of the High Court and an NGO practitioner. She has experience providing legal aid to indigents especially widows and orphans."
+        },
+        {
+            "name": "Edreda Bampata",
+            "image": "assets/images/IMG-20230316-WA0003.jpg",
+            "position": "Mentor",
+            "description": "Edreda is a mentor, educator, career advisor, and counsellor. She brings the experience of working with development partner agencies such as the USAID, several NGOs, and faith institutions. She is instrumental in the work of the Uganda Youth Forum, Scripture Union, and on several HIV&AIDS programs. Edreda provides advisory on the youth mentoring work."
+        },
+        {
+            "name": "Daniel Byamukama",
+            "image": "assets/images/IMG-20230316-WA0006.jpg",
+            "position": "Public Health Physician",
+            "description": "Daniel is a Public Health Physician and experienced public health programs manager. Currently he is the national coordinator of Uganda's HIV Prevention response. He brings vast experience in collaborative efforts between government and non-government agencies, and development partners."
+        },
+        {
+            "name": "Ssanyu Rebecca",
+            "image": "assets/images/",
+            "position": "Executive Director",
+            "description": "Ssanyu is th Foundation’s Executive Director. She has academic background in public policy and research on correctional rehabilitation. Ssanyu possesses over 20 years’ working experience with NGOs and thinktanks, and is competent in program design, management, and evaluation, as well as fundraising. She has also been an advisor to several government programs and processes in the area of public policy design and program implementation. As seasoned social researcher, several publications have emerged out of her work."
+        }
+    ]
+}
